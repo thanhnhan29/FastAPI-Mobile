@@ -11,10 +11,7 @@ This project demonstrates a **mobile AI demo app** that shows how to **send text
 - **Full-screen loading** ensures smooth user experience.
 - Uses **free resources**: FastAPI, ngrok free tunnels, open-source AI models.
 
-<video height="600" controls>
-  <source src="assets/test.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+![Demo App](assets/demo.gif)
 
 
 ---
