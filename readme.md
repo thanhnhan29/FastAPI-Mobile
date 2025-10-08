@@ -26,6 +26,7 @@ This project demonstrates a **mobile AI demo app** that shows how to **send text
 
 ### 2.1 Architecture
 
+```plaintext
 Android App
 
 │
@@ -55,6 +56,10 @@ AI Model (OpenCLIP / any model)
 │
 
 ▼
+
+Embeddings JSON
+
+```
 
 Embeddings JSON
 
